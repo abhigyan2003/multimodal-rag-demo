@@ -7,3 +7,4 @@ faiss-cpu==1.7.4
 sentence-transformers==2.7.0
 pillow==10.4.0
 torch==2.0.1
+grpcio-status==1.62.3
